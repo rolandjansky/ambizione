@@ -1,0 +1,8 @@
+name: ambizione
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - textgenrnn
+    - pandas
