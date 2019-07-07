@@ -2,6 +2,7 @@ name: ambizione
 dependencies:
   - python
   - numpy
+  - tensorflow
   - pip
   - pip:
     - textgenrnn
